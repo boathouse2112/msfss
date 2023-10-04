@@ -1,1 +1,10 @@
-#+title: Readme
+#+title: Mark's Simple File System Simulator
+
+Simulate a simple file system.
+64K storage, with 512B blocks => 128 blocks of memory.
+
+First 4 blocks reserved for filesystem, with 124 data blocks.
+
+* Build
+* Run
+* Test
